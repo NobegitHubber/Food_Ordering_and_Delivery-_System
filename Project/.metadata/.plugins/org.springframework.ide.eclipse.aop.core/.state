@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="order-service"/>
+<aop-project name="naming-server"/>
+<aop-project name="payment-service"/>
+<aop-project name="customer-service"/>
+<aop-project name="delivery-service"/>
+<aop-project name="api-gateway"/>
+</aop-reference-model>
